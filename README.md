@@ -15,12 +15,20 @@ I'm a full stack developer who enjoys building responsive web apps, RESTful APIs
 
  ## 🔨 Featured Projects
 
-# 💼 BizHorizon (Capstone Project)  
+### 💼 BizHorizon (Capstone Project)  
 A full-stack business admin dashboard with order, customer, and feedback management.  
 Tech Stack: React, Node.js, MySQL, RESTful APIs, Git, Figma
 
-# 📋 Employee Management System  
+### 📋 Employee Management System  
 Built with Angular, GraphQL, and Node.js. Includes secure login, CRUD operations, and real-time updates.
+
+### 💬 Real-Time Chat Room App
+Built a full-stack real-time chat application using Node.js, Express, and Socket.io on the backend, with HTML, CSS, and JavaScript for the frontend. Implemented private chat rooms, user session handling, and real-time message broadcasting. Designed for a responsive and smooth user experience with live updates.
+
+### 📱 Restaurant Review Mobile App
+Collaboratively built a mobile app using Java (Android Studio) that allows users to add restaurants they visit and leave reviews. Implemented features for restaurant listing, comment storage, and a clean, user-friendly interface. Gained experience with mobile UI development, data handling, and team-based collaboration.
+
+
 
 ---
 
